@@ -1,0 +1,17 @@
+{
+    "name": "xiaotao/test",
+    "description": "good",
+    "autoload": {
+        "psr-4": {
+            "Xiaotao\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lt",
+            "email": "751971678@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
